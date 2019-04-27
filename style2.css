@@ -1,4 +1,4 @@
-﻿@import url(layout.css);
+@import url(layout.css);
 body {
 	color: #000;
 	font-family: Arial, Helvetica, sans-serif;
@@ -82,7 +82,7 @@ body {
 	float: left;
 }
 #navigation a {
-	cdisplay: block;
+	clip-path: block;
   color: #666;
   text-align: center;
   padding: 14px 16px;
